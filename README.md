@@ -17,7 +17,7 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 
 1. Attach big acrylic disc to aluminium square with 3 central holes using M3x10mm bolts (this assabled part will be refered in the next steps as "botom of the grinding chamber").
 
-2. Assamble the botom 3D printed cap to the square aluminum piece with the big hole in the center (this assembled part will be refered as "top of the grinding chamber" in the next steps).
+2. Assemble the botom 3D printed cap to the square aluminum piece with the big hole in the center (this assembled part will be refered as "top of the grinding chamber" in the next steps).
 
 3. Attach the male part of the M5x60mm standofs to the bottom ob the grinding chamber.
 
