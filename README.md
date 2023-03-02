@@ -30,7 +30,7 @@ The Coffe Grinder has been designed and built by **[InMachines Ingrassia GmbH](h
 
 <br>
 
-Coffe Grinder design:
+Coffe Grinder design by:
 - **[Wilhelm Schütze](http://fabacademy.org/archives/2015/sa/students/schutze.wilhelm/index.html)**
 
 Contact
