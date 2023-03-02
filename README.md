@@ -8,6 +8,8 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 - CNC milled grinding blade with bending
 - adjustable speed
 - grinding time: about 1 minute
+- 3D printed screwable cap
+- laser cut polypropylene grinding area
 
 # Pictures
 
