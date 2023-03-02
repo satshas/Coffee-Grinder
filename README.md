@@ -13,7 +13,7 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 
 # Assembly Instructions
 
-**Sub Assembly A: grinding chamber**
+##**Sub Assembly A: grinding chamber**
 
 1. Attach big acrylic disc to aluminium square with 3 central holes using M3x10mm bolts (this assabled part will be refered in the next steps as "botom of the grinding chamber").
 
@@ -27,23 +27,23 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 
 6. Attach the DC motor to the bottom ginding chamber using 2 M4x10 bolts.
 
-**Sub Assemby B: Blade**
+##**Sub Assemby B: Blade**
 
 1. Fasten the blade to the motor coupler using 4 M3x10mm bolts and 4 M3 Locknuts.
 
 2. Attach the 2 M3 setscrews to the shaft of the motor coupler
 
-**Sub Assembly C: Electronics**
+##**Sub Assembly C: Electronics**
 
 1. Attach the controller board the the front aluminium plate by srewing the shaft of the board throu the big hole located in the top left of the plate, secure it with the provided nut.
 
 2. Attach the DC barrel jack connector to the back aluminium plate fitting it in to the hole located on the lower middle part.
 
-Sub Assembly D: Cap
+##**Sub Assembly D: Cap**
 
 1. Preesfit attachment of the small actilic disc to the top 3D printed cap.
 
-**MAIN ASSEMBLY**
+##**MAIN ASSEMBLY**
 
 1. Attach the 4 side aluminium plates to the grinding chamber by sliding them in to their corresponding notches.
 
