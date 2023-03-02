@@ -5,7 +5,7 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 
 - CNC milled 3mm aluminum housing
 - 12V 775 DC Motor
-- CNC milled grinded blade
+- CNC milled grinding blade with bending
 - adjustable speed
 - grinding time: about 1 minute
 
