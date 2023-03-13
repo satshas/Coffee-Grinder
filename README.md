@@ -17,11 +17,11 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 <div align="center"><img src="media/g1.jpg" width="60%"></div>
 <br>
 1. Attach big acrylic disc to aluminium square with 3 central holes using M3x10mm bolts (this assabled part will be refered in the next steps as "botom of the grinding chamber").
-<br><br><br>
+<br><br>
 <div align="center"><img src="media/g2.jpg" width="60%"></div>
 <br>
 2. Attach the DC motor to the bottom ginding chamber using 2 M4x10 bolts.
-<br><br><br>
+<br><br>
 <div align="center"><img src="media/g3.jpg" width="60%"></div>
 <br>
 <div align="center"><img src="media/g4.jpg" width="30%">     <img src="media/g5.jpg" width="30%"></div>
@@ -29,9 +29,8 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 ## **Sub Assemby B: Blade**
 
 <div align="center">1. Fasten the blade to the motor coupler using 4 M3x10mm bolts and 4 M3 Locknuts.
-
 2. Attach the 2 M3 setscrews to the shaft of the motor coupler</div>
-<br>
+<br><br>
 <div align="center"><img src="media/g6.jpg" width="60%"></div>
 <br>
 <div align="center"><img src="media/g7.jpg" width="60%"></div>
