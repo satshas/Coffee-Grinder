@@ -74,9 +74,8 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 <br>
 <div align="left"><img src="media/g3.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g4.jpg" width="60%"></div>
-<br>
-<div align="left"><img src="media/g5.jpg" width="60%"></div>
+<div align="left"><img src="media/g4.jpg" width="40%"></div>
+<div align="left"><img src="media/g5.jpg" width="40%"></div>
 <br>
 <div align="left"><img src="media/g6.jpg" width="60%"></div>
 <br>
