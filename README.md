@@ -24,17 +24,19 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 <br><br>
 <div align="center"><img src="media/g3.jpg" width="60%"></div>
 <br>
-<div align="center"><img src="media/g4.jpg" width="30%">     <img src="media/g5.jpg" width="30%"></div>
-<br>
 ## **Sub Assemby B: Blade**
 
-<div align="center">1. Fasten the blade to the motor coupler using 4 M3x10mm bolts and 4 M3 Locknuts.
-2. Attach the 2 M3 setscrews to the shaft of the motor coupler</div>
+<div align="center">1. Fasten the blade to the motor coupler using 4 M3x10mm bolts and 4 M3 Locknuts.<br>2. Attach the 2 M3 setscrews to the shaft of the motor coupler</div>
 <br><br>
+<div align="center"><img src="media/g4.jpg" width="30%">     <img src="media/g5.jpg" width="30%"></div>
+<br>
+3. Place the 3D printed cap to the square aluminum piece with the big hole in the center so that the wider part of the printed part fits with the circle slot. (this assembled part will be refered as "top of the grinding chamber" in the next steps).<br><br>
 <div align="center"><img src="media/g6.jpg" width="60%"></div>
 <br>
+For this step, you will need four M3x10mm and four M3 locknuts.<br><br>
 <div align="center"><img src="media/g7.jpg" width="60%"></div>
 <br>
+4. T.<br><br>
 <div align="center"><img src="media/g8.jpg" width="60%"></div>
 <br>
 <div align="center"><img src="media/g9.jpg" width="60%"></div>
@@ -54,7 +56,7 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 <div align="center"><img src="media/g17.jpg" width="60%"></div>
 
 
-2. Assemble the botom 3D printed cap to the square aluminum piece with the big hole in the center (this assembled part will be refered as "top of the grinding chamber" in the next steps).
+
 
 3. Attach the male part of the M5x60mm standofs to the bottom ob the grinding chamber.
 
