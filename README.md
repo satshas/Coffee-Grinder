@@ -26,7 +26,7 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 <br>
 <div align="center"><img src="media/g4.jpg" width="30%">     <img src="media/g5.jpg" width="30%"></div>
 <br>
-## **Sub Assemby B: Blade**
+## **Sub Assemby B: Blade**</div>
 
 1. Fasten the blade to the motor coupler using 4 M3x10mm bolts and 4 M3 Locknuts.
 
