@@ -14,8 +14,37 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 # Assembly Instructions
 
 ## **Sub Assembly A: grinding chamber**
-
+<div align="center"><img src="media/g1.jpg" width="60%"></div>
+<br>
 1. Attach big acrylic disc to aluminium square with 3 central holes using M3x10mm bolts (this assabled part will be refered in the next steps as "botom of the grinding chamber").
+<div align="center"><img src="media/g2.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g3.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g4.jpg" width="30%">     <img src="media/g5.jpg" width="30%"></div>
+<br>
+<div align="center"><img src="media/g6.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g7.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g8.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g9.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g10.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g11.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g12.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g13.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g14.jpg" width="45%">   <img src="media/g15.jpg" width="45%"></div>
+<br>
+<div align="center"><img src="media/g16.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g17.jpg" width="60%"></div>
+
 
 2. Assemble the botom 3D printed cap to the square aluminum piece with the big hole in the center (this assembled part will be refered as "top of the grinding chamber" in the next steps).
 
@@ -67,36 +96,6 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 <div align="left"><img src="media/grinder_2.jpg" width="60%"></div>
 <br>
 <div align="left"><img src="media/grinder_3.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g1.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g2.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g3.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g4.jpg" width="30%">     <img src="media/g5.jpg" width="30%"></div>
-<br>
-<div align="center"><img src="media/g6.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g7.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g8.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g9.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g10.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g11.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g12.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g13.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g14.jpg" width="45%">   <img src="media/g15.jpg" width="45%"></div>
-<br>
-<div align="center"><img src="media/g16.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g17.jpg" width="60%"></div>
 <br>
 <div align="center"><img src="media/g18.jpg" width="60%"></div>
 <br>
