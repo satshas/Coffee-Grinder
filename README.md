@@ -36,9 +36,10 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 For this step, you will need four M3x10mm and four M3 locknuts.<br><br>
 <div align="center"><img src="media/g7.jpg" width="60%"></div>
 <br>
-4. T.<br><br>
+4. Place the bolts so that their heads are opposite to the side of the circle slot.<br><br>
 <div align="center"><img src="media/g8.jpg" width="60%"></div>
 <br>
+DO NOT overtighten, otherwise the 3D printed part will wrap.<br><br>
 <div align="center"><img src="media/g9.jpg" width="60%"></div>
 <br>
 <div align="center"><img src="media/g10.jpg" width="60%"></div>
