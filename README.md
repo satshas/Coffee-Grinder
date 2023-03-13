@@ -74,55 +74,55 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 <br>
 <div align="center"><img src="media/g3.jpg" width="60%"></div>
 <br>
-<div align="center"><img src="media/g4.jpg" width="40%">  <img src="media/g5.jpg" width="40%"></div>
+<div align="center"><img src="media/g4.jpg" width="30%">     <img src="media/g5.jpg" width="30%"></div>
 <br>
-<div align="left"><img src="media/g6.jpg" width="60%"></div>
+<div align="center"><img src="media/g6.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g7.jpg" width="60%"></div>
+<div align="center"><img src="media/g7.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g8.jpg" width="60%"></div>
+<div align="center"><img src="media/g8.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g9.jpg" width="60%"></div>
+<div align="center"><img src="media/g9.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g10.jpg" width="60%"></div>
+<div align="center"><img src="media/g10.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g11.jpg" width="60%"></div>
+<div align="center"><img src="media/g11.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g12.jpg" width="60%"></div>
+<div align="center"><img src="media/g12.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g13.jpg" width="60%"></div>
+<div align="center"><img src="media/g13.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g14.jpg" width="60%"></div>
+<div align="center"><img src="media/g14.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g15.jpg" width="60%"></div>
+<div align="center"><img src="media/g15.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g16.jpg" width="60%"></div>
+<div align="center"><img src="media/g16.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g17.jpg" width="60%"></div>
+<div align="center"><img src="media/g17.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g18.jpg" width="60%"></div>
+<div align="center"><img src="media/g18.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g19.jpg" width="60%"></div>
+<div align="center"><img src="media/g19.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g20.jpg" width="60%"></div>
+<div align="center"><img src="media/g20.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g21.jpg" width="60%"></div>
+<div align="center"><img src="media/g21.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g22.jpg" width="60%"></div>
+<div align="center"><img src="media/g22.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g23.jpg" width="60%"></div>
+<div align="center"><img src="media/g23.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g24.jpg" width="60%"></div>
+<div align="center"><img src="media/g24.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g25.jpg" width="60%"></div>
+<div align="center"><img src="media/g25.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g26.jpg" width="60%"></div>
+<div align="center"><img src="media/g26.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g27.jpg" width="60%"></div>
+<div align="center"><img src="media/g27.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g28.jpg" width="60%"></div>
+<div align="center"><img src="media/g28.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/g29.jpg" width="60%"></div>
+<div align="center"><img src="media/g29.jpg" width="60%"></div>
 <br>
 
 ![](media/exploded_view.png)
