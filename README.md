@@ -59,25 +59,29 @@ Do not tighten the bolts. The space between the top and the bottom part of the c
 <br>
 9. Rotate the formed cylinder so the overlaped part remains behind one of the standoffs.<br><br>
 <div align="center"><img src="media/g17.jpg" width="60%"></div>
-
-
-
-
-3. 
-
-4. Roll the green polypropilen stripe to form an overlaped cilinder and fit it to the bottom of the ginding chamber´s grove formed by the space between the acrylic disc and the pocket of the aluminium piece.
-
-5. Fit the  top of the grinding chamber the top of PP roll previously fited on the botom of the grinding chamber and fasten it to the female part of the standoffs with 4 M5x12mm bolts.
-
-6. 
-
-
-
-##**Sub Assembly C: Electronics**
-
-1. Attach the controller board the the front aluminium plate by srewing the shaft of the board throu the big hole located in the top left of the plate, secure it with the provided nut.
-
-2. Attach the DC barrel jack connector to the back aluminium plate fitting it in to the hole located on the lower middle part.
+<br>
+10. While having the grinding chamber upside down place the front and back aluminium plates. The one with de centered hole is where the back, where the DC barrel jack connector goes.<br><br>
+<div align="center"><img src="media/g18.jpg" width="60%"></div>
+<br>
+11. Flip the assembly and slide the two side aluminium plates from above.<br><br>
+<div align="center"><img src="media/g19.jpg" width="45%">   <img src="media/g20.jpg" width="45%"></div>
+<br>
+<div align="center"><img src="media/g21.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g22.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g23.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g24.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g25.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g26.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g27.jpg" width="60%"></div>
+<br>
+<div align="center"><img src="media/g28.jpg" width="60%"></div>
+<br>
 
 ## **Sub Assembly D: Cap**
 
@@ -98,7 +102,11 @@ Do not tighten the bolts. The space between the top and the bottom part of the c
 6. Connect the power suplly to the DC barrel connector and the AC power cord to mains.
 
 7. Test.
+##**Sub Assembly C: Electronics**
 
+1. Attach the controller board the the front aluminium plate by srewing the shaft of the board throu the big hole located in the top left of the plate, secure it with the provided nut.
+
+2. Attach the DC barrel jack connector to the back aluminium plate fitting it in to the hole located on the lower middle part.
 
 # Pictures
 
@@ -108,26 +116,7 @@ Do not tighten the bolts. The space between the top and the bottom part of the c
 <br>
 <div align="left"><img src="media/grinder_3.jpg" width="60%"></div>
 <br>
-<div align="center"><img src="media/g18.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g19.jpg" width="45%">   <img src="media/g20.jpg" width="45%"></div>
-<br>
-<div align="center"><img src="media/g21.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g22.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g23.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g24.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g25.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g26.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g27.jpg" width="60%"></div>
-<br>
-<div align="center"><img src="media/g28.jpg" width="60%"></div>
-<br>
+
 <br>
 
 ![](media/exploded_view.png)
