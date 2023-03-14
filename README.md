@@ -72,14 +72,19 @@ Do not tighten the bolts. The space between the top and the bottom part of the c
 13. Attach the DC barrel jack connector to the back plate, secure it with the provided nut.<br><br>
 <div align="center"><img src="media/g23.jpg" width="60%"></div>
 <br>
+14. Prepare the electronic parts. Cables, connectors and controller board.<br><br>
 <div align="center"><img src="media/g24.jpg" width="60%"></div>
 <br>
+15. Make the 4 connections and check the position for the motor connection and the power connection.<br><br>
 <div align="center"><img src="media/g25.jpg" width="60%"></div>
 <br>
+16. Attach the controller board the the front aluminium plate by srewing the shaft of the board through the hole located in the top right (or left) of the plate, secure it with the provided nut.<br><br>
 <div align="center"><img src="media/g26.jpg" width="60%"></div>
 <br>
+17. Connect the cables to the motor and DC jack checking wich ones correspond to ground and vcc for each.<br><br>
 <div align="center"><img src="media/g27.jpg" width="60%"></div>
 <br>
+18. Place the cap.<br><br>
 <div align="center"><img src="media/g28.jpg" width="60%"></div>
 <br>
 
