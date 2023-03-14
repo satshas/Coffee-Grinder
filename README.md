@@ -84,22 +84,12 @@ Do not tighten the bolts. The space between the top and the bottom part of the c
 18. Place the cap.<br><br>
 <div align="center"><img src="media/g28.jpg" width="60%"></div>
 <br>
-
-## **Sub Assembly D: Cap**
-
-1. Preesfit attachment of the small actilic disc to the top 3D printed cap.
-
-
-
-# Pictures
-
-<div align="left"><img src="media/grinder_1.jpg" width="60%"></div>
+19. Preesfit attachment of the small acrylic disc to the top 3D printed cap.<br><br>
+<div align="center"><img src="media/g29.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/grinder_2.jpg" width="60%"></div>
+20. Place the big cap.<br><br>
+<div align="center"><img src="media/grinder_5.jpg" width="60%">   <img src="media/grinder_6.jpg" width="60%"></div>
 <br>
-<div align="left"><img src="media/grinder_3.jpg" width="60%"></div>
-<br>
-
 <br>
 
 ![](media/exploded_view.png)
