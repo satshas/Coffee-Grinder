@@ -94,6 +94,7 @@ Do not tighten the bolts. The space between the top and the bottom part of the c
 <br>
 
 <br>
+
 ![](media/exploded_view.png)
 
 Author
