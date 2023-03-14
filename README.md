@@ -92,6 +92,7 @@ Do not tighten the bolts. The space between the top and the bottom part of the c
 <br>
 <div align="center"><img src="media/grinder_7.jpg" width="60%"></div>
 <br>
+
 <br>
 ![](media/exploded_view.png)
 
