@@ -13,7 +13,7 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 
 # Assembly Instructions
 
-## **Sub Assembly A: grinding chamber**
+### **Sub Assembly A: grinding chamber**
 <div align="center"><img src="media/g1.jpg" width="60%"></div>
 <br>
 1. Attach big acrylic disc to aluminium square with 3 central holes using M3x10mm bolts (this assabled part will be refered in the next steps as "botom of the grinding chamber").
