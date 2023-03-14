@@ -66,10 +66,10 @@ Do not tighten the bolts. The space between the top and the bottom part of the c
 11. Flip the assembly and slide the two side aluminium plates from above.<br><br>
 <div align="center"><img src="media/g19.jpg" width="45%">   <img src="media/g20.jpg" width="45%"></div>
 <br>
-<div align="center"><img src="media/g21.jpg" width="60%"></div>
+12. Slide the 2 aluminium reteiners them in to their corresponding notches and secure them to the side plates using 4 M4x10mm bolts.<br><br>
+<div align="center"><img src="media/g21.jpg" width="45%">   <img src="media/g22.jpg" width="45%"></div>
 <br>
-<div align="center"><img src="media/g22.jpg" width="60%"></div>
-<br>
+13. Attach the DC barrel jack connector to the back plate, secure it with the provided nut.<br><br>
 <div align="center"><img src="media/g23.jpg" width="60%"></div>
 <br>
 <div align="center"><img src="media/g24.jpg" width="60%"></div>
