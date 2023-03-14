@@ -30,20 +30,22 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 <br><br>
 <div align="center"><img src="media/g4.jpg" width="30%">     <img src="media/g5.jpg" width="30%"></div>
 <br>
-3. Place the 3D printed cap to the square aluminum piece with the big hole in the center so that the wider part of the printed part fits with the circle slot. (this assembled part will be refered as "top of the grinding chamber" in the next steps).<br><br>
+3. Attach the male part of the M5x60mm standofs to the bottom ob the grinding chamber.<br><br>
+<div align="center"><img src="media/g10.jpg" width="60%"></div>
+<br>
+5. Place the 3D printed cap to the square aluminum piece with the big hole in the center so that the wider part of the printed part fits with the circle slot. (this assembled part will be refered as "top of the grinding chamber" in the next steps).<br><br>
 <div align="center"><img src="media/g6.jpg" width="60%"></div>
 <br>
 For this step, you will need four M3x10mm and four M3 locknuts.<br><br>
 <div align="center"><img src="media/g7.jpg" width="60%"></div>
 <br>
-4. Place the bolts so that their heads are opposite to the side of the circle slot.<br><br>
+5. Place the bolts so that their heads are opposite to the side of the circle slot.<br><br>
 <div align="center"><img src="media/g8.jpg" width="60%"></div>
 <br>
 DO NOT overtighten, otherwise the 3D printed part will wrap.<br><br>
 <div align="center"><img src="media/g9.jpg" width="60%"></div>
 <br>
-<div align="center"><img src="media/g10.jpg" width="60%"></div>
-<br>
+
 <div align="center"><img src="media/g11.jpg" width="60%"></div>
 <br>
 <div align="center"><img src="media/g12.jpg" width="60%"></div>
@@ -59,7 +61,7 @@ DO NOT overtighten, otherwise the 3D printed part will wrap.<br><br>
 
 
 
-3. Attach the male part of the M5x60mm standofs to the bottom ob the grinding chamber.
+3. 
 
 4. Roll the green polypropilen stripe to form an overlaped cilinder and fit it to the bottom of the ginding chamber´s grove formed by the space between the acrylic disc and the pocket of the aluminium piece.
 
