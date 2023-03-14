@@ -88,7 +88,7 @@ Do not tighten the bolts. The space between the top and the bottom part of the c
 <div align="center"><img src="media/g29.jpg" width="60%"></div>
 <br>
 20. Place the big cap.<br><br>
-<div align="center"><img src="media/grinder_5.jpg" width="45%">   <img src="media/grinder_6.jpg" width="45%"></div>
+<div align="center"><img src="media/grinder_5.jpg" width="60%"></div>
 <br>
 <div align="center"><img src="media/grinder_7.jpg" width="60%"></div>
 <br>
