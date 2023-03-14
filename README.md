@@ -30,7 +30,7 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 <br><br>
 <div align="center"><img src="media/g4.jpg" width="30%">     <img src="media/g5.jpg" width="30%"></div>
 <br>
-3. Attach the male part of the M5x60mm standofs to the bottom ob the grinding chamber.<br><br>
+3. Attach the male part of the M5x60mm standoffs to the bottom ob the grinding chamber.<br><br>
 <div align="center"><img src="media/g10.jpg" width="60%"></div>
 <br>
 5. Place the 3D printed cap to the square aluminum piece with the big hole in the center so that the wider part of the printed part fits with the circle slot. (this assembled part will be refered as "top of the grinding chamber" in the next steps).<br><br>
@@ -51,10 +51,13 @@ DO NOT overtighten, otherwise the 3D printed part will wrap.<br><br>
 Do not tighten the bolts. The space between the top and the bottom part of the chamber should be enough to fit the green polypropilen stripe.<br><br>
 <div align="center"><img src="media/g13.jpg" width="60%"></div>
 <br>
+7. Roll the green polypropilen stripe to form an overlaped cilinder inside the standoffs and fit it to the bottom and top circle pockets.<br><br>
 <div align="center"><img src="media/g14.jpg" width="45%">   <img src="media/g15.jpg" width="45%"></div>
 <br>
+8. Place the overlaped part in the pocket next to the centered bolt in the acrylic disc.<br><br>
 <div align="center"><img src="media/g16.jpg" width="60%"></div>
 <br>
+9. Rotate the formed cylinder so the overlaped part remains behind one of the standoffs.<br><br>
 <div align="center"><img src="media/g17.jpg" width="60%"></div>
 
 
