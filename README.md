@@ -46,11 +46,9 @@ DO NOT overtighten, otherwise the 3D printed part will wrap.<br><br>
 <div align="center"><img src="media/g9.jpg" width="60%"></div>
 <br>
 6. Attach the top of the grinding chamber and fasten it to the female part of the standoffs with 4 M5x12mm bolts.<br><br>
-<div align="center"><img src="media/g11.jpg" width="60%"></div>
-<br>
-Do not tighten the bolts. The space between the top and the bottom part of the chamber should be enough to fit the green polypropilen stripe.<br><br>
 <div align="center"><img src="media/g12.jpg" width="60%"></div>
 <br>
+Do not tighten the bolts. The space between the top and the bottom part of the chamber should be enough to fit the green polypropilen stripe.<br><br>
 <div align="center"><img src="media/g13.jpg" width="60%"></div>
 <br>
 <div align="center"><img src="media/g14.jpg" width="45%">   <img src="media/g15.jpg" width="45%"></div>
