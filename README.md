@@ -24,6 +24,7 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 <br><br>
 <div align="center"><img src="media/g3.jpg" width="60%"></div>
 <br>
+
 ## **Sub Assemby B: Blade**
 
 <div align="center">1. Fasten the blade to the motor coupler using 4 M3x10mm bolts and 4 M3 Locknuts.<br>2. Place the motor coupler to the motor´s shaft and tighten  the 2 setscrews.</div>
@@ -92,26 +93,7 @@ Do not tighten the bolts. The space between the top and the bottom part of the c
 
 1. Preesfit attachment of the small actilic disc to the top 3D printed cap.
 
-## **MAIN ASSEMBLY**
 
-1. Attach the 4 side aluminium plates to the grinding chamber by sliding them in to their corresponding notches.
-
-2. Attach the front and back plates (with the already attached electronic components) to the assembled side plates that are now part of the main assembly with the grinding chamber by slidind them in to their corresponding notches.
-
-3. Attach the 2 aluminium reteiners to the botom part of the already assembled front, back and side plates by sliding them in to their corresponding notches and secure them to the side plates using 4 M4x10mm bolts.
-
-4. Install the blade by sliding the motor coupler (attached to the balde) in to the motor shaft and secure it with the 2 M3 setscrews that were previusly attached on the motor coupler.
-
-5. Attach the knob for the speed controller just by pusshing it in place.
-
-6. Connect the power suplly to the DC barrel connector and the AC power cord to mains.
-
-7. Test.
-##**Sub Assembly C: Electronics**
-
-1. Attach the controller board the the front aluminium plate by srewing the shaft of the board throu the big hole located in the top left of the plate, secure it with the provided nut.
-
-2. Attach the DC barrel jack connector to the back aluminium plate fitting it in to the hole located on the lower middle part.
 
 # Pictures
 
