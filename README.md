@@ -136,5 +136,5 @@ Download
 
 # CAD files
 
-**[STEP file](VerticalCoffee GrinderV2.step)**
+**[STEP file](cad/VerticalCoffee GrinderV2.step)**
 # BOM
