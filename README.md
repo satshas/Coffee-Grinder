@@ -95,11 +95,10 @@ Do not tighten the bolts. The space between the top and the bottom part of the c
 
 <br>
 
-![](media/explodedv2.pdf)
+![](media/explodedv3.png)
 
 <br>
-<div align="center"><img src="media/explodedv2.pdf" width="60%"></div>
-<br>
+
 Author
 --
 
