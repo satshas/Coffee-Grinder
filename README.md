@@ -134,4 +134,7 @@ The Coffe Grinder documentation, pictures and presentation text of this reposito
 Download
 --
 
-#CAD files
+# CAD files
+
+STEP file <src="cad/VerticalCoffee GrinderV2.step">
+# BOM
