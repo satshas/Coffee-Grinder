@@ -1,7 +1,7 @@
 # Coffee-Grinder
 An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab Lab Machines
 <br>
-<div align="center"><img src="media/grinder_1.jpg" width="45%">    <img src="media/grinder_6.jpg" width="45%"><img src="media/grinder_2.jpg" width="45%"><img src="media/grinder_3.jpg" width="45%"></div>
+<div align="center"><img src="media/grinder_3.jpg" width="45%">    <img src="media/grinder_6.jpg" width="45%"><img src="media/grinder_2.jpg" width="45%"><img src="media/grinder_1.jpg" width="45%"></div>
 <br>
 # Specifications
 
