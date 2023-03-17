@@ -15,7 +15,7 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 - 3D printed screwable cap
 - laser cut polypropylene grinding area
 
-# Assembly Instructions
+# Assembly Instructions V2
 
 ## **Sub Assembly A: grinding chamber**
 <div align="center"><img src="media/g1.jpg" width="60%"></div>
@@ -147,7 +147,7 @@ Download
 
 - **[STEP file](cad/_coffee_grinder_v2.step)**
 - **[FUSION file](cad/coffeegrinderv1.f3z)**
-- You can check the version 1 explosive in previus commits.
+- You can check the version 1 exploded view in previous commits.
 
 ### BOM
 
