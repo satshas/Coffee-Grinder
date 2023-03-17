@@ -142,3 +142,4 @@ Download
 # BOM
 
 - **[.xlsx file](coffee_grinder_BOM.xlsx)**
+- **[.ods file](coffee_grinder_BOM.ods)**
