@@ -129,3 +129,9 @@ The Coffe Grinde design, CAD and PCB files, BOM, settings and relative files are
 The Coffe Grinder documentation, pictures and presentation text of this repository are released under the following license:
 
 - Creative-Commons-Attribution-ShareAlike 4.0 International - **[CC BY-SA 4.0](LICENSE_CC_BY_SA_4.0.txt)**
+
+
+Download
+--
+
+#CAD files
