@@ -136,6 +136,7 @@ Download
 
 # CAD files
 
-- **[STEP file](coffeegrinderV2.step)**
+- **[STEP file](cad/coffeegrinderV2.step)**
+- **[FUSION file](cad/coffeegrinderV2.f3z)**
 
 # BOM
