@@ -140,3 +140,5 @@ Download
 - **[FUSION file](cad/coffeegrinderV2.f3z)**
 
 # BOM
+
+- **[.xlsx file](coffee_grinder_BOM.xlsx)**
