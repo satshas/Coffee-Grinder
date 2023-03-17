@@ -134,10 +134,15 @@ The Coffe Grinder documentation, pictures and presentation text of this reposito
 Download
 --
 
-### CAD files
+### V2 CAD files
 
 - **[STEP file](cad/coffeegrinderV2.step)**
 - **[FUSION file](cad/coffeegrinderV2.f3z)**
+
+### V1 CAD files
+
+- **[STEP file](cad/_coffee_grinder_v2.step)**
+- **[FUSION file](cad/coffeegrinderv1.f3z)**
 
 ### BOM
 
