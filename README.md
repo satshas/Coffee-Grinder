@@ -24,8 +24,9 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 <br><br>
 <div align="center"><img src="media/g3.jpg" width="60%"></div>
 <br>
-<div align="center">The blade should be assembled to the motor coupler using 4 M3x10mm bolts and 4 M3 Locknuts.<br>To secure the motor coupler to the motor´s shaft you need to tighten  the 2 setscrews.</div>
+
 <div align="center"><img src="media/g4.jpg" width="30%">     <img src="media/g5.jpg" width="30%"></div>
+<div align="center">The blade should be assembled to the motor coupler using 4 M3x10mm bolts and 4 M3 Locknuts.<br>To secure the motor coupler to the motor´s shaft you need to tighten  the 2 setscrews.</div>
 <br>
 3. Attach the male part of the M5x60mm standoffs to the bottom ob the grinding chamber.<br><br>
 <div align="center"><img src="media/g10.jpg" width="60%"></div>
