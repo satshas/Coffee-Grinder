@@ -4,6 +4,7 @@ An Open Source Coffe Grinder made with a Pop-up Factory and Open Hardware Fab La
 <div align="center"><img src="media/grinder_2.jpg" width="45%">    <img src="media/grinder_6.jpg" width="45%"></div>
 <div align="center">      Version 1  |  Version 2</div>
 <br>
+
 # Specifications
 
 - CNC milled 3mm aluminum housing
@@ -146,6 +147,7 @@ Download
 
 - **[STEP file](cad/_coffee_grinder_v2.step)**
 - **[FUSION file](cad/coffeegrinderv1.f3z)**
+- You can check the version 1 explosive in previus commits.
 
 ### BOM
 
